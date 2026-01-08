@@ -1,6 +1,6 @@
 原则上E01 车机都可以用，吉利帝豪GL 20/21款没有问题（怎么使用甲壳虫自行百度）  
 使用甲壳虫上传mtk-su， libmnl.so到sdcard目录下，  
-然后使用运行一下命令就可以修复GPS时间问题，一般就能结局定位不准问题。  
+然后使用运行一下命令就可以修复GPS时间问题，一般就能修复没有定位问题。  
 
 cp /sdcard/mtk-su /data/local/tmp  
 cd /data/local/tmp  
